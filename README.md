@@ -1,6 +1,10 @@
 # cargo_rust_bin
 dewlopment , my bin + example env
 
-mkdir ~/.cargo
+$ mkdir ~/.cargo
 
-copy all binare folder cargo
+copy all binare folder cargo run folder all bin commnd:
+
+$ cp -r * ~/.cargo
+
+

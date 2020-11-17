@@ -5,7 +5,9 @@ $ mkdir ~/.cargo && mkdir ~/.rustup
 
 copy all binare folder cargo run folder all bin commnd:
 
-$ cp -r * ~/.cargo
+$ cp -r ./bin ./env ~/.cargo
+
+$ cp  ./settings.toml ~/.rustup
 
 run locate check nemo , nautilus alternative explorer copy enter ~/.cargo
 
